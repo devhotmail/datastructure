@@ -1,6 +1,6 @@
-import dsa.adt.DirectGraph;
-import dsa.adt.Graph;
-import dsa.adt.Vertex;
+import version1.dsa.adt.DirectGraph;
+import version1.dsa.adt.Graph;
+import version1.dsa.adt.Vertex;
 
 /**
  * Created by lsg on 29/9/2017.
@@ -15,6 +15,7 @@ public class TestMain {
 		Vertex v2 =new Vertex(g2,B);
 		Vertex v3 =new Vertex(g3,C);
 
+		System.out.println();
 		System.out.println("hello");
 	}
 }
