@@ -1,3 +1,4 @@
+// devhotmail edit on server master
 package dsa.strategy;
 
 public final class DefaultStrategy implements Strategy 
