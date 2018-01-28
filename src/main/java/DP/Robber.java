@@ -7,7 +7,7 @@ package DP;
  * Created by lsg on 27/10/2017.
  */
 /*nums 每个银行有多少钱, 不能挨着相邻的银行抢
-* idx: 第n家银行
+* idx: 第n家银
 * */
 // server1
 public class Robber {
