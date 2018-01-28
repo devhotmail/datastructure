@@ -8,7 +8,7 @@ package DP;
 /*nums 每个银行有多少钱, 不能挨着相邻的银行抢
 * idx: 第n家银行
 * */
-
+// server1
 public class Robber {
 	public static int[] result;
 	public static int solve(int idx,int[] nums){
