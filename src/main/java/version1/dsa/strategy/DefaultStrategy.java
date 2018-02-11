@@ -1,6 +1,8 @@
-package version1.dsa.strategy;
 
-public final class DefaultStrategy implements Strategy 
+package version1.dsa.strategy;
+import version1.dsa.strategy.Strategy;
+
+public final class DefaultStrategy implements Strategy
 {
 	
 	public boolean equal(Object obj1, Object obj2) 
